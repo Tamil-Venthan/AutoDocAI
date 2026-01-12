@@ -59,7 +59,28 @@ AutoDoc AI is a Windows desktop application that automatically generates **high-
 > Output file will be created in the same folder as the input file.
 
 ---
+## 🔑 How to Get an OpenAI API Key
 
+AutoDoc AI requires an **OpenAI API key** to generate answers.
+
+Follow these steps to create one:
+
+### 1️⃣ Create an OpenAI Account
+Visit: https://platform.openai.com  
+Sign up or log in using your email or Google account.
+
+---
+
+### 2️⃣ Go to API Keys Page
+After logging in, open: https://platform.openai.com/api-keys
+### 3️⃣ Create a New API Key
+- Click **“Create new secret key”**
+- Give it a name (e.g., `AutoDocAI`)
+- Copy the key immediately
+
+> ⚠️ **Important:** You will not be able to see this key again. Store it securely.
+
+---
 ## 🔐 OpenAI API Key Setup (.env Guide)
 
 AutoDoc AI supports using a `.env` file to securely load your OpenAI API key.
