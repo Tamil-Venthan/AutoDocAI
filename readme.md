@@ -208,6 +208,60 @@ Examples:
 Profiles are stored in `templates.json`.
 
 ---
+## 🖼️ Screenshots (UI Walkthrough)
+
+> 📌 *Screenshots are indicative. UI may vary slightly based on theme selection.*
+
+### 1️⃣ Application Home Screen
+
+* Enter OpenAI API Key
+* Select theme
+* Access User Guide & updates
+
+📷 `screenshots/home.png`
+
+---
+
+### 2️⃣ File Selection & Profiles
+
+* Browse input `.docx` file
+* Choose AI profile (UPSC, Finance, Tech, etc.)
+* Edit or create custom profiles
+
+📷 `screenshots/file_and_profiles.png`
+
+---
+
+### 3️⃣ Model & Parameters
+
+* Select OpenAI model
+* Adjust temperature slider
+* Enable page break option
+
+📷 `screenshots/model_settings.png`
+
+---
+
+### 4️⃣ Live Processing
+
+* Real-time progress bar
+* Cost tracking (USD & INR)
+* ETA display
+* Pause / Resume / Stop controls
+
+📷 `screenshots/processing.png`
+
+---
+
+### 5️⃣ Completed Output
+
+* Auto-generated Word document
+* Structured answers with headings & bullets
+* Optional page breaks between answers
+
+📷 `screenshots/output_docx.png`
+
+---
 
 
 ## 🧠 Architecture Overview
