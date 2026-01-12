@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="500"
+</p>
+
 # 📘 AutoDoc AI
 
 AutoDoc AI is a Windows desktop application that automatically generates **high-quality, structured answers** from questions in a Word document using OpenAI models. It is designed for  **academic writing**, and **professional documentation**, with support for both **Python source** and **Windows EXE distribution**.
@@ -218,7 +222,7 @@ Profiles are stored in `templates.json`.
 * Select theme
 * Access User Guide & updates
 
-📷 `screenshots/home.png`
+![Home Screen](screenshots/home.png)
 
 ---
 
@@ -228,7 +232,7 @@ Profiles are stored in `templates.json`.
 * Choose AI profile (UPSC, Finance, Tech, etc.)
 * Edit or create custom profiles
 
-📷 `screenshots/file_and_profiles.png`
+![File selection](screenshots/file_and_profiles.png)
 
 ---
 
@@ -238,7 +242,7 @@ Profiles are stored in `templates.json`.
 * Adjust temperature slider
 * Enable page break option
 
-📷 `screenshots/model_settings.png`
+![Model](screenshots/model_settings.png)
 
 ---
 
@@ -249,7 +253,7 @@ Profiles are stored in `templates.json`.
 * ETA display
 * Pause / Resume / Stop controls
 
-📷 `screenshots/processing.png`
+![Processing Screen](screenshots/processing.png)
 
 ---
 
@@ -259,7 +263,7 @@ Profiles are stored in `templates.json`.
 * Structured answers with headings & bullets
 * Optional page breaks between answers
 
-📷 `screenshots/output_docx.png`
+![output](screenshots/output_docx.png)
 
 ---
 
