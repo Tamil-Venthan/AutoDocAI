@@ -49,7 +49,7 @@ AutoDoc AI is a Windows desktop application that automatically generates **high-
 
 ## ▶️ How to Use (EXE Version)
 
-1. Download the latest `.exe` from **Releases**
+1. Download the latest `.exe` from [**Releases**](https://github.com/Tamil-Venthan/AutoDocAI/releases)
 2. Double-click to run
 3. Enter OpenAI API Key
 4. Select input `.docx` file
