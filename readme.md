@@ -14,6 +14,7 @@ AutoDoc AI is a Windows desktop application that automatically generates **high-
   <img src="https://img.shields.io/github/downloads/Tamil-Venthan/AutoDocAI/total" height="20"/>
   <img src="https://img.shields.io/github/issues/Tamil-Venthan/AutoDocAI" height="20"/>
 </p>
+
 ---
 ## 🚀 Key Features
 
