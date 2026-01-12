@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="assets/logo.png" width="500"
-</p>
-
-# 📘 AutoDoc AI
-
-AutoDoc AI is a Windows desktop application that automatically generates **high-quality, structured answers** from questions in a Word document using OpenAI models. It is designed for  **academic writing**, and **professional documentation**, with support for both **Python source** and **Windows EXE distribution**.
-
-<p align="center">
+  <img src="assets/logo.png" width="500">
+  <br />
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue" height="20"/>
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6" height="20"/>
   <img src="https://img.shields.io/badge/License-MIT-green" height="20"/>
@@ -14,6 +8,10 @@ AutoDoc AI is a Windows desktop application that automatically generates **high-
   <img src="https://img.shields.io/github/downloads/Tamil-Venthan/AutoDocAI/total" height="20"/>
   <img src="https://img.shields.io/github/issues/Tamil-Venthan/AutoDocAI" height="20"/>
 </p>
+
+# 📘 AutoDoc AI
+
+AutoDoc AI is a Windows desktop application that automatically generates **high-quality, structured answers** from questions in a Word document using OpenAI models. It is designed for  **academic writing**, and **professional documentation**, with support for both **Python source** and **Windows EXE distribution**.
 
 ---
 ## 🚀 Key Features
